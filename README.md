@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="/public/osonbozor.png" width="180" />
+<img src="/public/osonbozor.png" width="100%" />
 
 ### 🛒 Yangi avlod online marketplace
 
