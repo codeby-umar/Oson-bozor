@@ -1,6 +1,6 @@
 # 🚀 OsonBozor
 
-<div align="center">
+<div>
 
 <img src="/public/osonbozor.png" width="100%" />
 
